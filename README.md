@@ -17,9 +17,13 @@ This dashboard is designed for business managers, analysts, and decision-makers 
 The dashboard was built using the following tools and technologies:
 
 • 📊 Power BI Desktop  Used to design and build the interactive dashboard.
+
 • 📂 Power Query  Used for data cleaning, transformation, and preparation.
+
 • 🧠 DAX (Data Analysis Expressions)  Used for calculating measures such as total sales, profit, quantity, and averages.
+
 • 📝 Data Modeling  Relationships created between tables to enable accurate filtering and analysis.
+
 • 📁 File Format  .pbix for development and .png for dashboard preview.
 
 ## 4. Data Source
