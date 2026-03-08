@@ -94,4 +94,6 @@ A bar chart showing profit contribution from individual product types such as Ab
 
 ## Dashboard Preview
 
-A visual preview of the Power BI dashboard is included below to demonstrate the layout, key metrics, and analytical insights provided by the report. https://github.com/Mubarak-Sharif/Ecommerce-Sales-Dashboard/blob/138e3f5bcd266a5b99faa89882fcc96b6eeac078/Snapshot%20of%20Ecommerce%20Sales%20Dashboard.jpg
+A visual preview of the Power BI dashboard is included below to demonstrate the layout, key metrics, and analytical insights provided by the report. https://github.com/Mubarak-Sharif/Ecommerce-SalesDashboard/blob/main/Snapshot%20of%20Ecommerce%20Sales%20Dashboard.jpg?raw=true
+
+https://github.com/Mubarak-Sharif/Ecommerce-Sales-Dashboard/blob/138e3f5bcd266a5b99faa89882fcc96b6eeac078/Snapshot%20of%20Ecommerce%20Sales%20Dashboard.jpg
