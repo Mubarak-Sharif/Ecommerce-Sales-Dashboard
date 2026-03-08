@@ -12,15 +12,15 @@ The Mubarak E-commerce Sales Dashboard provides a comprehensive view of online s
 
 This dashboard is designed for business managers, analysts, and decision-makers who want to monitor performance and identify growth opportunities using data insights.
 
-## 3. Tech Stack
+3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-• **Power BI Desktop**  Primary platform used for building the interactive dashboard and visualizations.
-• **Power Query**  Used for data cleaning, transformation, and preparation.
-• **DAX (Data Analysis Expressions)**  Implemented to create calculated measures and dynamic insights.
-• **Data Modeling**  Relationships created between data tables to support filtering and accurate analysis.
-• **File Format** – `.pbix` for dashboard development and `.png` for visual previews.
+• 📊 Power BI Desktop  Used to design and build the interactive dashboard.
+• 📂 Power Query  Used for data cleaning, transformation, and preparation.
+• 🧠 DAX (Data Analysis Expressions)  Used for calculating measures such as total sales, profit, quantity, and averages.
+• 📝 Data Modeling  Relationships created between tables to enable accurate filtering and analysis.
+• 📁 File Format  .pbix for development and .png for dashboard preview.
 
 ## 4. Data Source
 
