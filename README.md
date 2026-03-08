@@ -43,9 +43,13 @@ E-commerce businesses generate large volumes of transactional data, making it di
 The primary objective of this dashboard is to provide an interactive analytical tool that:
 
 • Offers a quick overview of overall sales performance
+
 • Identifies top-performing states and product categories
+
 • Analyzes customer payment preferences
+
 • Tracks profit trends across different months
+
 • Supports strategic business decisions through data insights
 
 ## Key Dashboard Visuals
@@ -54,8 +58,11 @@ The primary objective of this dashboard is to provide an interactive analytical 
 The dashboard highlights core metrics including:
 
 • **Total Sales:** 114K
+
 • **Total Quantity Sold:** 1245
+
 • **Total Profit:** 11K
+
 • **Average Order Value:** 31K
 
 These indicators provide a quick snapshot of overall business performance.
@@ -71,14 +78,18 @@ This visualization highlights customer payment preferences such as Cash on Deliv
 
 **Monthly Profit Trend**
 A column chart analyzing profit performance across different months, helping identify seasonal trends and business growth patterns.
+
 **Profit by Sub-Category**
 A bar chart showing profit contribution from individual product types such as Abaya, Bookcases, Printers, Saree, and Trousers.
 
 ## Business Insights
 
 • **Regional Performance Analysis**  Identify states contributing the highest sales revenue.
+
 • **Product Demand Insights**  Determine which categories generate the most sales.
+
 • **Customer Behavior Understanding**  Analyze preferred payment methods.
+
 • **Profit Monitoring**  Track financial performance across time periods.
 
 ## Dashboard Preview
