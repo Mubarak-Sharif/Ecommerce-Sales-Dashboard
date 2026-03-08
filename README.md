@@ -4,11 +4,11 @@
 
 **Mubarak E-commerce Sales Analytics Dashboard**
 
-An interactive Power BI dashboard developed to analyze e-commerce sales performance across different states, product categories, payment methods, and time periods. The dashboard delivers clear and actionable insights through intuitive visualizations to support data-driven decision making.
+An interactive Power BI dashboard developed to analyze e-commerce sales performance across different states, product categories, payment methods, and time periods.The dashboard delivers clear and actionable insights through intuitive visualizations to support data-driven decision making.
 
 ## 2. Project Overview
 
-The Mubarak E-commerce Sales Dashboard provides a comprehensive view of online sales data by combining key performance indicators with interactive visualizations. It allows users to quickly understand revenue trends, product performance, customer purchasing behavior, and regional sales distribution.
+The Mubarak E-commerce Sales Dashboard provides a comprehensive view of online sales data by combining key performance indicators with interactive visualizations.It allows users to quickly understand revenue trends, product performance, customer purchasing behavior, and regional sales distribution.
 
 This dashboard is designed for business managers, analysts, and decision-makers who want to monitor performance and identify growth opportunities using data insights.
 
@@ -16,17 +16,17 @@ This dashboard is designed for business managers, analysts, and decision-makers 
 
 The dashboard was built using the following tools and technologies:
 
-• **Power BI Desktop** – Primary platform used for building the interactive dashboard and visualizations.
-• **Power Query** – Used for data cleaning, transformation, and preparation.
-• **DAX (Data Analysis Expressions)** – Implemented to create calculated measures and dynamic insights.
-• **Data Modeling** – Relationships created between data tables to support filtering and accurate analysis.
+• **Power BI Desktop**  Primary platform used for building the interactive dashboard and visualizations.
+• **Power Query**  Used for data cleaning, transformation, and preparation.
+• **DAX (Data Analysis Expressions)**  Implemented to create calculated measures and dynamic insights.
+• **Data Modeling**  Relationships created between data tables to support filtering and accurate analysis.
 • **File Format** – `.pbix` for dashboard development and `.png` for visual previews.
 
 ## 4. Data Source
 
 **Dataset:** Sample E-commerce Sales Data
 
-The dataset includes transactional information from an online retail business, containing details such as product categories, sales amount, quantity sold, payment methods, states, and profit values. This structured dataset enables analysis of business performance across multiple dimensions.
+The dataset includes transactional information from an online retail business, containing details such as product categories, sales amount, quantity sold, payment methods, states, and profit values.This structured dataset enables analysis of business performance across multiple dimensions.
 
 # 5. Key Features & Highlights
 
@@ -72,10 +72,10 @@ A bar chart showing profit contribution from individual product types such as Ab
 
 ## Business Insights
 
-• **Regional Performance Analysis** – Identify states contributing the highest sales revenue.
-• **Product Demand Insights** – Determine which categories generate the most sales.
-• **Customer Behavior Understanding** – Analyze preferred payment methods.
-• **Profit Monitoring** – Track financial performance across time periods.
+• **Regional Performance Analysis**  Identify states contributing the highest sales revenue.
+• **Product Demand Insights**  Determine which categories generate the most sales.
+• **Customer Behavior Understanding**  Analyze preferred payment methods.
+• **Profit Monitoring**  Track financial performance across time periods.
 
 ## Dashboard Preview
 
